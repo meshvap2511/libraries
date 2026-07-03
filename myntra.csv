@@ -1,0 +1,16 @@
+product_id,product_name,brand,category,price,rating,discount
+101,Cotton T-Shirt,H&M,T-Shirt,599,4.3,20
+102,Slim Fit Jeans,Levis,Jeans,1999,4.5,15
+103,Running Shoes,Nike,Shoes,3499,4.7,25
+104,Casual Shirt,Peter England,Shirt,1299,4.2,10
+105,Hoodie,Puma,Hoodie,2499,4.6,30
+106,Sports Shorts,Adidas,Shorts,899,4.4,20
+107,Formal Trousers,Van Heusen,Trousers,1799,4.1,18
+108,Sneakers,Red Tape,Shoes,2299,4.3,22
+109,Kurta,Manyavar,Ethnic Wear,1599,4.5,12
+110,Track Pants,Reebok,Track Pants,1399,4.4,28
+111,Denim Jacket,Wrangler,Jacket,2799,4.6,20
+112,Cap,HRX,Accessories,499,4.0,35
+113,Sunglasses,Fastrack,Accessories,999,4.3,40
+114,Sweatshirt,Roadster,Sweatshirt,1499,4.2,30
+115,Sandals,Bata,Footwear,899,4.1,18
